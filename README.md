@@ -41,67 +41,67 @@
    ### 2.3 Output of Sequential Code
    After running the K-means algorithm sequentially, the following performance metrics and cluster information were obtained:
 
-         ``` 
-         Total time for assign_clusters: 143.5992 seconds
-Total time for update_centroids: 0.3440 seconds
-Total time for all iterations: 131.1577 seconds
-
-
-
-
-Cluster Descriptions and Centroids:
-
-Cluster 'High Income, High Spend': Centroid at [25.46011238 19.99283218]
-Data Points in Cluster 'High Income, High Spend':
- [[15 39]
- [16  6]
- [17 40]
- ...
- [26  8]
- [18 19]
- [31 18]]
-
-Cluster 'High Income, Low Spend': Centroid at [25.49664812 78.48512465]
-Data Points in Cluster 'High Income, Low Spend':
- [[15 81]
- [16 77]
- [17 76]
- ...
- [31 75]
- [29 79]
- [36 88]]
-
-Cluster 'Low Income, High Spend': Centroid at [87.5013484  16.78698158]
-Data Points in Cluster 'Low Income, High Spend':
- [[70 29]
- [71 11]
- [71  9]
- ...
- [79 13]
- [71 15]
- [78 11]]
-
-Cluster 'Low Income, Low Spend': Centroid at [86.32229157 81.82287431]
-Data Points in Cluster 'Low Income, Low Spend':
- [[ 69  91]
- [ 70  77]
- [ 71  95]
- ...
- [ 75  88]
- [124  81]
- [ 97  88]]
-
-Cluster 'Moderate Income, Moderate Spend': Centroid at [54.87171662 49.08631298]
-Data Points in Cluster 'Moderate Income, Moderate Spend':
- [[39 36]
- [39 61]
- [40 55]
- ...
- [52 59]
- [65 59]
- [69 35]]
-Total time for printing cluster descriptions and centroids: 0.056539058685302734
-         ```
+                           ``` 
+                           Total time for assign_clusters: 143.5992 seconds
+                           Total time for update_centroids: 0.3440 seconds
+                           Total time for all iterations: 131.1577 seconds
+                           
+                           
+                           
+                           
+                           Cluster Descriptions and Centroids:
+                           
+                           Cluster 'High Income, High Spend': Centroid at [25.46011238 19.99283218]
+                           Data Points in Cluster 'High Income, High Spend':
+                            [[15 39]
+                            [16  6]
+                            [17 40]
+                            ...
+                            [26  8]
+                            [18 19]
+                            [31 18]]
+                           
+                           Cluster 'High Income, Low Spend': Centroid at [25.49664812 78.48512465]
+                           Data Points in Cluster 'High Income, Low Spend':
+                            [[15 81]
+                            [16 77]
+                            [17 76]
+                            ...
+                            [31 75]
+                            [29 79]
+                            [36 88]]
+                           
+                           Cluster 'Low Income, High Spend': Centroid at [87.5013484  16.78698158]
+                           Data Points in Cluster 'Low Income, High Spend':
+                            [[70 29]
+                            [71 11]
+                            [71  9]
+                            ...
+                            [79 13]
+                            [71 15]
+                            [78 11]]
+                           
+                           Cluster 'Low Income, Low Spend': Centroid at [86.32229157 81.82287431]
+                           Data Points in Cluster 'Low Income, Low Spend':
+                            [[ 69  91]
+                            [ 70  77]
+                            [ 71  95]
+                            ...
+                            [ 75  88]
+                            [124  81]
+                            [ 97  88]]
+                           
+                           Cluster 'Moderate Income, Moderate Spend': Centroid at [54.87171662 49.08631298]
+                           Data Points in Cluster 'Moderate Income, Moderate Spend':
+                            [[39 36]
+                            [39 61]
+                            [40 55]
+                            ...
+                            [52 59]
+                            [65 59]
+                            [69 35]]
+                           Total time for printing cluster descriptions and centroids: 0.056539058685302734
+                           ```
 
      
 
