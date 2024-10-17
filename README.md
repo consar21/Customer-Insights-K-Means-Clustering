@@ -2,8 +2,7 @@
 
 ## 1. Introduction to the Topic
    ### 1.1 History and Background
-   Parallel computing has transformed data processing by enabling the execution of tasks concurrently across multiple cores or processors. This advancement allows for efficient handling of large datasets and complex algorithms, which would be computationally prohibitive otherwise.
-
+   
    The K-means clustering algorithm, introduced by Stuart Lloyd in 1957, is a foundational technique in unsupervised learning. Initially applied in pulse-code modulation, it has become a widely-used tool across various fields due to its simplicity and effectiveness in partitioning data into clusters based on similarity.
 
    ### 1.2 What is K-Means Algorithm
