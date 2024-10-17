@@ -41,9 +41,9 @@
    After running the K-means algorithm sequentially, the following performance metrics and cluster information were obtained:
 
    - **Timing Results**:
-     - Total time for cluster assignment: 143.6 seconds
-     - Total time for centroid updates: 0.34 seconds
-     - Total time for all iterations: 131.2 seconds
+     #### Total time for cluster assignment: 143.6 seconds
+     ### Total time for centroid updates: 0.34 seconds
+     ### Total time for all iterations: 131.2 seconds
 
    - **Cluster Descriptions and Centroids**:
      - **High Income, High Spend**: Centroid at `[25.46, 19.99]`
