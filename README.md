@@ -44,6 +44,9 @@
      #### Total time for cluster assignment: 143.6 seconds
      ### Total time for centroid updates: 0.34 seconds
      ### Total time for all iterations: 131.2 seconds
+     Cluster 'High Income, High Spend': Centroid at [25.4601 19.9928] Data Points in Cluster 'High Income, High Spend': [[15 39] [16 6] [17 40] ... [26 8] [18 19] [31 18]]
+
+
 
    - **Cluster Descriptions and Centroids**:
      - **High Income, High Spend**: Centroid at `[25.46, 19.99]`
